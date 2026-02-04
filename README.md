@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandu C</h1>
-<h3 align="center">🎓 Computer Science & Engineering student (2025) 💻 Aspiring Software Development Engineer 🚀 Passionate about problem-solving and building efficient software</h3>
+<h3 align="center">🎓 Computer Science & Engineering student  💻 Aspiring Software Development Engineer     🚀 Passionate about problem-solving and building efficient software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanduc13&label=Profile%20views&color=0e75b6&style=flat" alt="chanduc13" /> </p>
 
@@ -32,7 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanduc13&show_icons=true&locale=en" alt="chanduc13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanduc13&" alt="chanduc13" /></p>
 
 <h1 align="center">Hey 👋What's Up?</h1>
 
@@ -132,6 +131,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
